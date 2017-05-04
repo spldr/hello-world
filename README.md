@@ -1,2 +1,3 @@
 # hello-world
-This is for starting point
+This is just for fun :P
+I edited it :))
